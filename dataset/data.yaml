@@ -1,0 +1,7 @@
+names:
+- bottle
+nc: 1
+path: dataset
+train: images/train
+val: images/val
+test: images/val
